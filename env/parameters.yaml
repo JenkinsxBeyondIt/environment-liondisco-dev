@@ -1,0 +1,10 @@
+adminUser:
+  password: local:liondisco/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: jenkinsx@beyondit.it
+  token: local:liondisco/pipelineUser:token
+  username: JenkinsxBeyondIt
+prow:
+  hmacToken: local:liondisco/prow:hmacToken
