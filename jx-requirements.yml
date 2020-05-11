@@ -7,7 +7,7 @@ cluster:
   devEnvApprovers:
   - ascotti-beyond
   - luca-dichiro
-  environmentGitOwner: ascotti-beyond
+  environmentGitOwner: it-beyondit
   environmentGitPublic: true
   gitKind: github
   gitName: github
